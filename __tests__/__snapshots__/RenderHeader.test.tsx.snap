@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#facc15",
+        "borderRightWidth": 2,
+        "height": 60,
+        "justifyContent": "center",
+        "width": "30%",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#000",
+          "marginBottom": 12,
+          "marginTop": 20,
+        }
+      }
+    >
+      Name
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#facc15",
+        "borderRightWidth": 2,
+        "height": 60,
+        "justifyContent": "center",
+        "width": "20%",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#000",
+          "marginBottom": 12,
+          "marginTop": 28,
+        }
+      }
+    >
+      Rank
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#facc15",
+        "borderRightWidth": 2,
+        "height": 60,
+        "justifyContent": "center",
+        "width": "20%",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "marginBottom": 12,
+          "marginTop": 28,
+        }
+      }
+    >
+      Bananas
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#fff",
+        "height": 60,
+        "justifyContent": "center",
+        "paddingLeft": 4,
+        "paddingRight": 4,
+        "width": "30%",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#000",
+          "fontSize": 12,
+          "lineHeight": 16,
+          "marginBottom": 12,
+          "marginTop": 28,
+          "textAlign": "center",
+        }
+      }
+    >
+      isSearchedUser?
+    </Text>
+  </View>
+</View>
+`;

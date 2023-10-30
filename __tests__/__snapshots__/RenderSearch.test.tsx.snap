@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#fff",
+      "borderColor": "#facc15",
+      "borderTopWidth": 2,
+      "flexDirection": "row",
+      "height": 60,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#facc15",
+        "borderRightWidth": 2,
+        "justifyContent": "center",
+        "width": "30%",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#b91c1c",
+          "marginBottom": 12,
+          "marginTop": 12,
+          "paddingLeft": 8,
+          "paddingRight": 8,
+          "textAlign": "center",
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#facc15",
+        "borderRightWidth": 2,
+        "justifyContent": "center",
+        "width": "20%",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#000",
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#facc15",
+        "borderRightWidth": 2,
+        "justifyContent": "center",
+        "width": "20%",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#000",
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "borderColor": "#facc15",
+        "justifyContent": "center",
+        "width": "30%",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#000",
+        }
+      }
+    >
+      yes
+    </Text>
+  </View>
+</View>
+`;

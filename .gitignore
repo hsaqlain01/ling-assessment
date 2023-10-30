@@ -20,3 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#Node Modules
+node_modules/
+#Pod File
+ios/Pods/
